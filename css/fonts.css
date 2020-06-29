@@ -1,0 +1,12 @@
+/* font-family: Metropolis - Regular */
+@font-face {
+    font-family: m-regular;
+    src: url("../fonts/Metropolis-Regular.otf")
+}
+
+/* font-family: Metropolis - Bold */
+@font-face {
+    font-family: m-bold;
+    src: url("../fonts/Metropolis-Bold.otf")
+}
+
